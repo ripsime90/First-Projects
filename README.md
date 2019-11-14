@@ -1,2 +1,3 @@
 # First-Projects
-my first data science projects
+Data science projects.
+first steps toward a new career.
